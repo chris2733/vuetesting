@@ -1,6 +1,6 @@
-# vuetesting
+# vue-cli
 
-> First practice using VueJS
+> A Vue.js project
 
 ## Build Setup
 
